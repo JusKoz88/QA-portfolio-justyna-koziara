@@ -34,3 +34,14 @@ I am also starting to learn Java to broaden my automation capabilities.
 ---
 
 More projects will be added regularly.
+
+## 📂 Repository Structure
+
+QA-portfolio-justyna-koziara/
+│
+├── Test_Cases/
+├── Bug_Reports/
+├── Test_Plans/
+├── Test_Case_Decomposition/
+├── API_Testing/
+└── README.md
