@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this document is to identify and structure all functional elements available to logged-out and logged-in users in the Conduit test application.
+The objective of this document is to identify and structure all functional elements available to logged-out and logged-in users in the web test application.
 
 ## Scope
 
